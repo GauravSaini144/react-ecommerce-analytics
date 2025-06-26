@@ -5,12 +5,6 @@ A fully responsive and dynamic admin dashboard for visualizing key e-commerce an
 
 ---
 
-## 📸 Preview
-
-
-
----
-
 ## 🚀 Features
 
 ### 🔢 KPIs (Key Performance Indicators)
